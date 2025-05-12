@@ -16,7 +16,7 @@
 
 ## 🛠️ Projects
 
-- ✈️ **[Airline Reservation System](https://github.com/ArchieP27/AirlineReservationSystem)**  
+- ✈️ **[Airline Reservation System](https://github.com/ArchieP27/AirlineReservationSystem-Java)**  
   Java Swing GUI application with backend logic for managing bookings.
 
 - 🌍 **[Travel Immerse Website](https://github.com/ArchieP27/TravelImmerse)**  
