@@ -22,7 +22,7 @@
 - 🌍 **[Travel Immerse Website](https://github.com/ArchieP27/TravelImmerse)**  
   A front-end responsive travel website built using HTML, CSS, JS, and PHP.
 
-- 🛡️ **[Ransomware Detector](https://github.com/ArchieP27/RansomwareDetector)**  
+- 🛡️ **[Ransomware Detector](https://github.com/ArchieP27/Ransomware-Detector)**  
   A Python script to detect suspicious file encryption behaviors.
 
 ## 📌 Goals
