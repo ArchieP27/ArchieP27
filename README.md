@@ -26,6 +26,8 @@ Hi, I'm **Archita!**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="PHP" />
 </div>
 
+###
+
 I enjoy developing real-world projects, writing clean code, and exploring technologies that help me grow as an aspiring full-stack developer.  
 My GitHub is where I document my journey — projects, experiments, and everything in between.
 
@@ -40,14 +42,6 @@ My GitHub is where I document my journey — projects, experiments, and everythi
 </div>
 
 Thanks for stopping by! Feel free to explore my repositories. ✨
-
-###
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=ArchieP27&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/architaporov/" target="_blank">
