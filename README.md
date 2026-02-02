@@ -1,51 +1,56 @@
-## 👋 Hey there, I'm Archita!
+# 💫 About Me
 
-- 🎓 Software Engineering student at **VIT**
-- 💻 Passionate about **Web Development** and **Software Engineering**
-- 🚀 Skilled in:
-  - ☕ **Java** (Swing, backend)
-  - 🌐 **HTML**, **CSS**, **JavaScript**
-  - 🐘 **PHP**, **MySQL**
-  - 🐍 Basic **Python** scripting
+Hi, I'm **Archita!**
 
-## 🧠 Currently Learning
+- 👩‍💻 Software Engineering student at VIT
+- 💛 Passionate about **Java, Backend Development & Web Technologies**
+- 🚀 Always learning, building, and expanding my skill set
 
-- 📚 **Data Structures & Algorithms (DSA)**
-- ⚛️ Advanced Web Development (JavaScript, React.js, APIs)
-- ☁️ Cloud deployment tools like **Netlify** and **Render**
+###
 
-## 🛠️ Projects
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="PHP" />
+</div>
 
-- ✈️ **[Airline Reservation System](https://github.com/ArchieP27/AirlineReservationSystem-Java)**  
-  Java Swing GUI application with backend logic for managing bookings.
+I enjoy developing real-world projects, writing clean code, and exploring technologies that help me grow as an aspiring full-stack developer.  
+My GitHub is where I document my journey — projects, experiments, and everything in between.
 
-- 🌍 **[Travel Immerse Website](https://github.com/ArchieP27/TravelImmerse)**  
-  A front-end responsive travel website built using HTML, CSS, JS, and PHP.
+<div align="center">
 
-- 🛡️ **[Ransomware Detector](https://github.com/ArchieP27/Ransomware-Detector)**  
-  A Python script to detect suspicious file encryption behaviors.
+![](https://github-readme-stats.vercel.app/api?username=ArchieP27&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
 
-## 📌 Goals
+![](https://nirzak-streak-stats.vercel.app/?user=ArchieP27&theme=dracula&hide_border=false)
 
-- 🌱 Keep growing my **full-stack development** skills
-- 💡 Build more real-world and open-source projects
-- 🤝 Collaborate with developers around the world
-- 🔧 Learn **Spring Boot**, **Docker**, and CI/CD tools
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchieP27&theme=dracula&hide_border=false&layout=compact)
 
-## 📫 Let's Connect!
+</div>
 
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/architaporov/)
-- 🐙 [GitHub](https://github.com/ArchieP27)
+Thanks for stopping by! Feel free to explore my repositories. ✨
 
+###
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArchieP27&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ArchieP27&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchieP27&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=ArchieP27&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=ArchieP27&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/architaporov/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+</div>
